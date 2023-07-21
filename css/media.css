@@ -1,0 +1,364 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+
+        /* header starts from here */
+header{
+    padding: 10px 0;
+}
+.menu ul li a{
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+}
+/* header ends here */
+
+/* slider starts from here */
+.slider{
+    padding-bottom: 60px;
+ 
+}
+.coustom-indecator{
+    bottom: -60px;
+    
+}
+.coustom-indecator [data-bs-target] {
+   
+    width: 13px;
+    height: 13px;
+  
+}
+.s-text{
+    margin-top: 0;
+}
+.s-text h1 {
+    font-size: 25px;
+    
+}
+.s-text h2 {
+    margin: 10px 0;
+    font-size: 18px;
+    
+}
+.s-text p {
+    margin-bottom: 20px;
+    
+}
+
+.s-icon ul li{
+    margin-right: 15px !important;
+}
+.s-icon ul li i{
+    font-size: 35px;
+  
+}
+/* slider ends here */
+/* feature starts */
+.feature{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.f-header{
+    margin-bottom: 10px;
+    font-size: 25px;
+   
+   
+}
+.f-text{
+    font-size: 17px;
+    line-height: 25px;
+    
+}
+/* feature  ends here */
+/* feature cards starts */
+
+
+.f-card{
+    margin-top: 30px;
+}
+.f-icon i{
+    font-size: 35px;
+    transition: .4s !important;
+}
+.f-icon i:hover{
+    transform: scale(.8) !important;
+
+}
+
+.icon-text {
+  
+    text-align: center;
+}
+.icon-text h2{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+/* feature cards ends */
+/* contact starts here */
+
+.c-form{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+.c-input{
+    padding: 10px 10px;
+    height: 45px;
+ 
+}
+.c-submit{ 
+   
+    height: 40px;   
+
+}
+.contact-icon li {
+    margin-right: 20px !important;
+ 
+ }
+ .contact-icon li i{
+     font-size: 35px;
+ 
+ }
+
+
+/* contact ends here */
+/* footer starts from here */
+footer{
+    padding-bottom: 70px;
+}
+.f-1{    
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.f-2{ text-align: center;}
+
+/* footer ends here */
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* header starts from here */
+.menu ul li a{
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+}
+/* header ends here */
+
+/* slider starts from here */
+.slider{
+    padding-bottom: 60px;
+ 
+}
+.coustom-indecator{
+    bottom: -55px;
+    
+}
+.coustom-indecator [data-bs-target] {
+   
+    width: 13px;
+    height: 13px;
+  
+}
+.s-text{
+    margin-top: 0;
+}
+.s-text h1 {
+    font-size: 25px;
+    
+}
+.s-text h2 {
+    margin: 10px 0;
+    font-size: 18px;
+    
+}
+.s-text p {
+    margin-bottom: 20px;
+    
+}
+
+.s-icon ul li{
+    margin-right: 20px !important;
+}
+.s-icon ul li i{
+    font-size: 35px;
+  
+}
+/* slider ends here */
+
+/* feature starts */
+.feature{
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.f-header{
+    margin-bottom: 10px;
+    font-size: 25px;
+   
+   
+}
+.f-text{
+    font-size: 17px;
+    line-height: 25px;
+    
+}
+
+/* feature  ends here */
+
+/* feature cards starts */
+
+
+.f-card{
+    margin-top: 30px;
+}
+.f-icon i{
+    font-size: 35px;
+}
+
+.icon-text {
+  
+    text-align: center;
+}
+.icon-text h2{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+/* feature cards ends */
+
+
+/* contact starts here */
+
+.c-form{
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+.c-input{
+    padding: 10px 10px;
+    height: 45px;
+ 
+}
+.c-submit{ 
+   
+    height: 40px;
+ 
+    
+
+}
+
+.contact-icon li {
+   margin-right: 20px !important;
+
+}
+.contact-icon li i{
+    font-size: 35px;
+
+}
+
+
+/* contact ends here */
+/* footer starts from here */
+footer{
+    padding-bottom: 70px;
+}
+.f-1{    
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.f-2{ text-align: center;}
+
+/* footer ends here */
+
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* header starts from here */
+.menu ul li a{
+    padding: 10px 0 0 !important;
+    text-align: right;
+}
+/* header ends here */
+/* slider starts from here */
+.slider{
+    padding-bottom: 100px;
+ 
+}
+.coustom-indecator{
+    bottom: -55px;
+    
+}
+.coustom-indecator [data-bs-target] {
+   
+    width: 13px;
+    height: 13px;
+  
+}
+.s-text{
+    margin-top: 40px;
+}
+.s-text h1 {
+    font-size: 20px;
+    
+}
+.s-text h2 {
+    margin: 10px 0;
+    font-size: 18px;
+    
+}
+.s-text p {
+    margin-bottom: 20px;
+    
+}
+
+.s-icon ul li{
+    margin-right: 20px !important;
+}
+.s-icon ul li i{
+    font-size: 35px;
+  
+}
+/* slider ends here */
+
+/* feature starts here */
+.feature{
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+/* feature ends here */
+/* feature cards starts */
+.f-card{
+    margin-top: 50px;
+}
+
+/* feture cards ends */
+
+ /* contact form starts */
+ .c-form{
+    margin-top: 65px;
+    margin-bottom: 70px;
+}
+ /* contact form endss */
+/* footer starts from here */
+footer{
+    padding-bottom: 100px;
+}
+
+}
+/* footer ends here */
+
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+/* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+ }
